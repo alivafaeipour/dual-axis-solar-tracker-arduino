@@ -2,7 +2,7 @@
 
 > A low-cost dual-axis solar tracking system developed using Arduino Uno, LDR sensors, and servo motors to maximize solar panel exposure to sunlight.
 
-![Structure](images/structure.png)
+
 
 ---
 
