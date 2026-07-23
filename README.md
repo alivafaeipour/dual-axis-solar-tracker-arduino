@@ -116,27 +116,7 @@ This lightweight control strategy provides stable tracking while keeping the imp
 - Arduino IDE
 - Servo Library
 
----
 
-# 📂 Repository Structure
-
-```
-dual-axis-solar-tracker-arduino
-│
-├── images/
-│   ├── structure.png
-│   ├── circuit.png
-│   ├── ldr.png
-│   ├── horizontal-servo.png
-│   └── vertical-servo.png
-│
-├── firmware/
-│
-├── docs/
-│
-├── README.md
-└── LICENSE
-```
 
 ---
 
