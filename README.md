@@ -115,8 +115,12 @@ This lightweight control strategy provides stable tracking while keeping the imp
 
 - Arduino IDE
 - Servo Library
+---
+# 💻 Firmware
 
+The Arduino source code can be found here:
 
+- [dual_axis_solar_tracker.ino](firmware/dual_axis_solar_tracker/dual_axis_solar_tracker.ino)
 
 ---
 
